@@ -1,5 +1,5 @@
 # Use Node.js Alpine base image
-FROM node:alpine-3.14
+FROM node:alpine
 
 # Create and set the working directory inside the container
 WORKDIR /app
